@@ -67,7 +67,7 @@ You asked to reference your Medium write-up in the README.
 Since the direct article URL can vary (Medium usernames/slug), this repo links:
 
 - **Medium search for the exact title:**
-  - https://medium.com/search?q=IPv4%20Calculator%20program%20written%20in%20C
+  - https://medium.com/@tech_with_orgito_/ipv4-calculator-program-written-in-c-885b363328db
 
 If you paste your *exact* Medium URL, replace the line above with the direct link.
 
